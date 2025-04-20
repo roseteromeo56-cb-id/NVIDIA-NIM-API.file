@@ -1,7 +1,7 @@
 ![nvidia-logo](https://github.com/user-attachments/assets/8eaaa482-826c-44da-acf6-b553c76f8cc7)
 Owner
 ![nvidia-egx-platform-gold-image-full-2c50-d@2x](https://github.com/user-attachments/assets/46b85ff4-d1c3-4d17-bd8b-a32a7ac58754)
-![deepseek-r1](https://github.com/user-attachments/assets/ac721fa7-603b-4e8c-b154-4da53f3daa6b)
+
 
 # NVIDIA-NIM-API
 Owner    nvcr.io/nim/meta/llama3-70b-instruct:1.0.3  
